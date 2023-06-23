@@ -1,9 +1,9 @@
 import {} from '@chakra-ui/react'
-import { Flex, Input, IconButton, Box } from '@chakra-ui/react'
+import { Flex, Input, IconButton } from '@chakra-ui/react'
 import { AttachmentIcon } from '@chakra-ui/icons'
 import { VscSend } from 'react-icons/vsc'
 
-import Attachments from './Popups'
+// import Attachments from './Popups'
 
 
 const Sendbox: React.FC = () => {

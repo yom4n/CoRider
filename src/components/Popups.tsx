@@ -1,6 +1,5 @@
-import { RiCameraLine } from 'react-icons/ri'
+// import { RiCameraLine } from 'react-icons/ri'
 
-import { createContext } from 'react'
 
 import {
     Modal,
@@ -14,7 +13,7 @@ import React from 'react'
 
 const Attachments: React.FC = () => {
 
-  const { isOpen, onOpen, onClose } = useDisclosure()
+  const { isOpen, onClose } = useDisclosure()
   
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
