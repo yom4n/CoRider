@@ -14,8 +14,6 @@ WPA fully functioning locally
 
 
 * Application running on Ubuntu Desktop                                                                                                                 
-![App Screenshot]()
-
 <p align="center">
   <img src="https://github.com/yom4n/CoRider/assets/27628105/155c696b-0f53-498b-ab86-6f3f31be27a9" alt="Sublime's custom image"/>
 </p>
